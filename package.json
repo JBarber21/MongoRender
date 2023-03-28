@@ -4,7 +4,7 @@
   "description": "JBs Express Mongo Test on Render",
   "main": "testmongo2.js",
   "repository": "https://github.com/JBarber21/MongoRender",
-  "author": "CK",
+  "author": "JB",
   "license": "MIT",
   "private": false,
   "scripts": {
