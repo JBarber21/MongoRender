@@ -1,14 +1,14 @@
 {
-  "name": "ckMongoTest",
+  "name": "jbMongoRender",
   "version": "1.0.0",
-  "description": "CKs Express Mongo Test on Render",
-  "main": "testmongo.js",
-  "repository": "https://github.com/ckorpio/MongoTest",
+  "description": "JBs Express Mongo Test on Render",
+  "main": "testmongo2.js",
+  "repository": "https://github.com/JBarber21/MongoRender",
   "author": "CK",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node testmongo.js"
+    "start": "node testmongo2.js"
   },
   "dependencies": {
     "express": "^4.18.2",
